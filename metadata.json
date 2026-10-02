@@ -1,0 +1,10 @@
+{
+  "name": "M.A.R.K - AI Command Center",
+  "description": "M.A.R.K - Autonomous AI voice assistant created by Mohammed Ali (Founder of DevX Technical Club, ICEAS) with real-time web search and neural voice synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
